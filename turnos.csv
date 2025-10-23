@@ -1,0 +1,1638 @@
+Lunes,09:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 1","Dr. Lopez","Medico Clinico",Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 2","Dra. Garcia","Medico Clinico",Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 3","Dr. Castro","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 4","Dra. Silva","Medico Clinico",Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 5","Dr. Molina","Medico Clinico",Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,09:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,10:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,10:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,11:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,11:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,12:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,12:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,13:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,13:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,14:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,14:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,15:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,15:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,16:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,16:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,17:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,17:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,09:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,09:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,10:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,10:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,11:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,11:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,12:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,12:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,13:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,13:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,14:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,14:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,15:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,15:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,16:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,16:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,17:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,17:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,09:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,09:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,10:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,10:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,11:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,11:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,12:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,12:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,13:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,13:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,14:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,14:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,15:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,15:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,16:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,16:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,17:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,17:00,"Consultorio 6","Dr. Fernandez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,09:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,09:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,10:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,10:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,11:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,11:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,12:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,12:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,13:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,13:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,14:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,14:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,15:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,15:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,16:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,16:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,17:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,17:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,09:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,09:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,10:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,10:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,11:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,11:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,12:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,12:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,13:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,13:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,14:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,14:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,15:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,15:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,16:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,16:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,17:00,"Consultorio 7","Dra. Costa",Cardiologo,Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 7","Dra. Costa",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,17:00,"Consultorio 7","Dra. Costa",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,09:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,09:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,10:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,10:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,11:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,11:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,12:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,12:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,13:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,13:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,14:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,14:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,15:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,15:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,16:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,16:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,17:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Miercoles,17:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,09:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,09:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,10:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,10:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,11:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,11:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,12:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,12:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,13:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,13:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,14:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,14:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,15:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,15:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,16:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,16:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,17:00,"Consultorio 8","Dr. Rojas",Cardiologo,Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 8","Dr. Rojas",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,17:00,"Consultorio 8","Dr. Rojas",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,09:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,09:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,10:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,10:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,11:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,11:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,12:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,12:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,13:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,13:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,14:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,14:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,15:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,15:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,16:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,16:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Martes,17:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Martes,17:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,09:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,09:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,10:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,10:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,11:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,11:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,12:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,12:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,13:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,13:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,14:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,14:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,15:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,15:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,16:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,16:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Viernes,17:00,"Consultorio 9","Dra. Benitez",Cardiologo,Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 9","Dra. Benitez",Cardiologo,Electrocardiograma,DISPONIBLE
+Viernes,17:00,"Consultorio 9","Dra. Benitez",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,09:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,09:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,10:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,10:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,11:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,11:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,12:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,12:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,13:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,13:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,14:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,14:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,15:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,15:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,16:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,16:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Lunes,17:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Lunes,17:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Jueves,09:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Jueves,09:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Jueves,10:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Jueves,10:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Jueves,11:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Jueves,11:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Jueves,12:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Jueves,12:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Jueves,13:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Jueves,13:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Jueves,14:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Jueves,14:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Jueves,15:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Jueves,15:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Jueves,16:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Jueves,16:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Jueves,17:00,"Consultorio 10","Dr. Herrera",Cardiologo,Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 10","Dr. Herrera",Cardiologo,Electrocardiograma,DISPONIBLE
+Jueves,17:00,"Consultorio 10","Dr. Herrera",Cardiologo,Ecocardiograma,DISPONIBLE
+Miercoles,09:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,09:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Miercoles,10:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,10:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Miercoles,11:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,11:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Miercoles,12:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,12:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Miercoles,13:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,13:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Miercoles,14:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,14:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Miercoles,15:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,15:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Miercoles,16:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,16:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Miercoles,17:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,17:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Viernes,09:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Viernes,09:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Viernes,10:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Viernes,10:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Viernes,11:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Viernes,11:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Viernes,12:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Viernes,12:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Viernes,13:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Viernes,13:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Viernes,14:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Viernes,14:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Viernes,15:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Viernes,15:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Viernes,16:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Viernes,16:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Viernes,17:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 11","Dr. Ruiz",Traumatologo,"Control de yeso",DISPONIBLE
+Viernes,17:00,"Consultorio 11","Dr. Ruiz",Traumatologo,Curacion,DISPONIBLE
+Lunes,09:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,09:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Lunes,10:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,10:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Lunes,11:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,11:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Lunes,12:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,12:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Lunes,13:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,13:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Lunes,14:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,14:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Lunes,15:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,15:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Lunes,16:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,16:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Lunes,17:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,17:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Jueves,09:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,09:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Jueves,10:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,10:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Jueves,11:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,11:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Jueves,12:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,12:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Jueves,13:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,13:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Jueves,14:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,14:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Jueves,15:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,15:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Jueves,16:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,16:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Jueves,17:00,"Consultorio 12","Dra. Soto",Traumatologo,Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 12","Dra. Soto",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,17:00,"Consultorio 12","Dra. Soto",Traumatologo,Curacion,DISPONIBLE
+Miercoles,09:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 13","Dr. Aguilar",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,09:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Curacion,DISPONIBLE
+Miercoles,10:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 13","Dr. Aguilar",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,10:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Curacion,DISPONIBLE
+Miercoles,11:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 13","Dr. Aguilar",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,11:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Curacion,DISPONIBLE
+Miercoles,12:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 13","Dr. Aguilar",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,12:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Curacion,DISPONIBLE
+Miercoles,13:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 13","Dr. Aguilar",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,13:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Curacion,DISPONIBLE
+Miercoles,14:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 13","Dr. Aguilar",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,14:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Curacion,DISPONIBLE
+Miercoles,15:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 13","Dr. Aguilar",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,15:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Curacion,DISPONIBLE
+Miercoles,16:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 13","Dr. Aguilar",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,16:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Curacion,DISPONIBLE
+Miercoles,17:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 13","Dr. Aguilar",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,17:00,"Consultorio 13","Dr. Aguilar",Traumatologo,Curacion,DISPONIBLE
+Lunes,09:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,09:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Lunes,10:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,10:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Lunes,11:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,11:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Lunes,12:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,12:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Lunes,13:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,13:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Lunes,14:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,14:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Lunes,15:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,15:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Lunes,16:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,16:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Lunes,17:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Lunes,17:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Jueves,09:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,09:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Jueves,10:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,10:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Jueves,11:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,11:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Jueves,12:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,12:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Jueves,13:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,13:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Jueves,14:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,14:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Jueves,15:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,15:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Jueves,16:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,16:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Jueves,17:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 14","Dra. Cabrera",Traumatologo,"Control de yeso",DISPONIBLE
+Jueves,17:00,"Consultorio 14","Dra. Cabrera",Traumatologo,Curacion,DISPONIBLE
+Miercoles,09:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,09:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Curacion,DISPONIBLE
+Miercoles,10:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,10:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Curacion,DISPONIBLE
+Miercoles,11:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,11:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Curacion,DISPONIBLE
+Miercoles,12:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,12:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Curacion,DISPONIBLE
+Miercoles,13:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,13:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Curacion,DISPONIBLE
+Miercoles,14:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,14:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Curacion,DISPONIBLE
+Miercoles,15:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,15:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Curacion,DISPONIBLE
+Miercoles,16:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,16:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Curacion,DISPONIBLE
+Miercoles,17:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,"Control de yeso",DISPONIBLE
+Miercoles,17:00,"Consultorio 15","Dr. Lopez B.",Traumatologo,Curacion,DISPONIBLE
+Lunes,09:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Lunes,09:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Lunes,10:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Lunes,10:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Lunes,11:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Lunes,11:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Lunes,12:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Lunes,12:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Lunes,13:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Lunes,13:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Lunes,14:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Lunes,14:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Lunes,15:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Lunes,15:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Lunes,16:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Lunes,16:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Lunes,17:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Lunes,17:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,09:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,09:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,10:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,10:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,11:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,11:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,12:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,12:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,13:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,13:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,14:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,14:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,15:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,15:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,16:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,16:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,17:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,17:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Viernes,09:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Viernes,09:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Viernes,10:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Viernes,10:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Viernes,11:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Viernes,11:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Viernes,12:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Viernes,12:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Viernes,13:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Viernes,13:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Viernes,14:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Viernes,14:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Viernes,15:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Viernes,15:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Viernes,16:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Viernes,16:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Viernes,17:00,"Consultorio 16","Dra. Mendez",Obstetra,Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 16","Dra. Mendez",Obstetra,Ecografia,DISPONIBLE
+Viernes,17:00,"Consultorio 16","Dra. Mendez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,09:00,"Consultorio 17","Dr. Flores",Obstetra,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 17","Dr. Flores",Obstetra,Ecografia,DISPONIBLE
+Miercoles,09:00,"Consultorio 17","Dr. Flores",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,10:00,"Consultorio 17","Dr. Flores",Obstetra,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 17","Dr. Flores",Obstetra,Ecografia,DISPONIBLE
+Miercoles,10:00,"Consultorio 17","Dr. Flores",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,11:00,"Consultorio 17","Dr. Flores",Obstetra,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 17","Dr. Flores",Obstetra,Ecografia,DISPONIBLE
+Miercoles,11:00,"Consultorio 17","Dr. Flores",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,12:00,"Consultorio 17","Dr. Flores",Obstetra,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 17","Dr. Flores",Obstetra,Ecografia,DISPONIBLE
+Miercoles,12:00,"Consultorio 17","Dr. Flores",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,13:00,"Consultorio 17","Dr. Flores",Obstetra,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 17","Dr. Flores",Obstetra,Ecografia,DISPONIBLE
+Miercoles,13:00,"Consultorio 17","Dr. Flores",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,14:00,"Consultorio 17","Dr. Flores",Obstetra,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 17","Dr. Flores",Obstetra,Ecografia,DISPONIBLE
+Miercoles,14:00,"Consultorio 17","Dr. Flores",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,15:00,"Consultorio 17","Dr. Flores",Obstetra,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 17","Dr. Flores",Obstetra,Ecografia,DISPONIBLE
+Miercoles,15:00,"Consultorio 17","Dr. Flores",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,16:00,"Consultorio 17","Dr. Flores",Obstetra,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 17","Dr. Flores",Obstetra,Ecografia,DISPONIBLE
+Miercoles,16:00,"Consultorio 17","Dr. Flores",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,17:00,"Consultorio 17","Dr. Flores",Obstetra,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 17","Dr. Flores",Obstetra,Ecografia,DISPONIBLE
+Miercoles,17:00,"Consultorio 17","Dr. Flores",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,09:00,"Consultorio 18","Dra. Alvarez",Obstetra,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 18","Dra. Alvarez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,09:00,"Consultorio 18","Dra. Alvarez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,10:00,"Consultorio 18","Dra. Alvarez",Obstetra,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 18","Dra. Alvarez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,10:00,"Consultorio 18","Dra. Alvarez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,11:00,"Consultorio 18","Dra. Alvarez",Obstetra,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 18","Dra. Alvarez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,11:00,"Consultorio 18","Dra. Alvarez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,12:00,"Consultorio 18","Dra. Alvarez",Obstetra,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 18","Dra. Alvarez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,12:00,"Consultorio 18","Dra. Alvarez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,13:00,"Consultorio 18","Dra. Alvarez",Obstetra,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 18","Dra. Alvarez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,13:00,"Consultorio 18","Dra. Alvarez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,14:00,"Consultorio 18","Dra. Alvarez",Obstetra,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 18","Dra. Alvarez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,14:00,"Consultorio 18","Dra. Alvarez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,15:00,"Consultorio 18","Dra. Alvarez",Obstetra,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 18","Dra. Alvarez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,15:00,"Consultorio 18","Dra. Alvarez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,16:00,"Consultorio 18","Dra. Alvarez",Obstetra,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 18","Dra. Alvarez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,16:00,"Consultorio 18","Dra. Alvarez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,17:00,"Consultorio 18","Dra. Alvarez",Obstetra,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 18","Dra. Alvarez",Obstetra,Ecografia,DISPONIBLE
+Miercoles,17:00,"Consultorio 18","Dra. Alvarez",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,09:00,"Consultorio 19","Dr. Paredes",Obstetra,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 19","Dr. Paredes",Obstetra,Ecografia,DISPONIBLE
+Miercoles,09:00,"Consultorio 19","Dr. Paredes",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,10:00,"Consultorio 19","Dr. Paredes",Obstetra,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 19","Dr. Paredes",Obstetra,Ecografia,DISPONIBLE
+Miercoles,10:00,"Consultorio 19","Dr. Paredes",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,11:00,"Consultorio 19","Dr. Paredes",Obstetra,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 19","Dr. Paredes",Obstetra,Ecografia,DISPONIBLE
+Miercoles,11:00,"Consultorio 19","Dr. Paredes",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,12:00,"Consultorio 19","Dr. Paredes",Obstetra,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 19","Dr. Paredes",Obstetra,Ecografia,DISPONIBLE
+Miercoles,12:00,"Consultorio 19","Dr. Paredes",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,13:00,"Consultorio 19","Dr. Paredes",Obstetra,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 19","Dr. Paredes",Obstetra,Ecografia,DISPONIBLE
+Miercoles,13:00,"Consultorio 19","Dr. Paredes",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,14:00,"Consultorio 19","Dr. Paredes",Obstetra,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 19","Dr. Paredes",Obstetra,Ecografia,DISPONIBLE
+Miercoles,14:00,"Consultorio 19","Dr. Paredes",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,15:00,"Consultorio 19","Dr. Paredes",Obstetra,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 19","Dr. Paredes",Obstetra,Ecografia,DISPONIBLE
+Miercoles,15:00,"Consultorio 19","Dr. Paredes",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,16:00,"Consultorio 19","Dr. Paredes",Obstetra,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 19","Dr. Paredes",Obstetra,Ecografia,DISPONIBLE
+Miercoles,16:00,"Consultorio 19","Dr. Paredes",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,17:00,"Consultorio 19","Dr. Paredes",Obstetra,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 19","Dr. Paredes",Obstetra,Ecografia,DISPONIBLE
+Miercoles,17:00,"Consultorio 19","Dr. Paredes",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,09:00,"Consultorio 20","Dra. Varela",Obstetra,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 20","Dra. Varela",Obstetra,Ecografia,DISPONIBLE
+Miercoles,09:00,"Consultorio 20","Dra. Varela",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,10:00,"Consultorio 20","Dra. Varela",Obstetra,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 20","Dra. Varela",Obstetra,Ecografia,DISPONIBLE
+Miercoles,10:00,"Consultorio 20","Dra. Varela",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,11:00,"Consultorio 20","Dra. Varela",Obstetra,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 20","Dra. Varela",Obstetra,Ecografia,DISPONIBLE
+Miercoles,11:00,"Consultorio 20","Dra. Varela",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,12:00,"Consultorio 20","Dra. Varela",Obstetra,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 20","Dra. Varela",Obstetra,Ecografia,DISPONIBLE
+Miercoles,12:00,"Consultorio 20","Dra. Varela",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,13:00,"Consultorio 20","Dra. Varela",Obstetra,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 20","Dra. Varela",Obstetra,Ecografia,DISPONIBLE
+Miercoles,13:00,"Consultorio 20","Dra. Varela",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,14:00,"Consultorio 20","Dra. Varela",Obstetra,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 20","Dra. Varela",Obstetra,Ecografia,DISPONIBLE
+Miercoles,14:00,"Consultorio 20","Dra. Varela",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,15:00,"Consultorio 20","Dra. Varela",Obstetra,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 20","Dra. Varela",Obstetra,Ecografia,DISPONIBLE
+Miercoles,15:00,"Consultorio 20","Dra. Varela",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,16:00,"Consultorio 20","Dra. Varela",Obstetra,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 20","Dra. Varela",Obstetra,Ecografia,DISPONIBLE
+Miercoles,16:00,"Consultorio 20","Dra. Varela",Obstetra,"Control prenatal",DISPONIBLE
+Miercoles,17:00,"Consultorio 20","Dra. Varela",Obstetra,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 20","Dra. Varela",Obstetra,Ecografia,DISPONIBLE
+Miercoles,17:00,"Consultorio 20","Dra. Varela",Obstetra,"Control prenatal",DISPONIBLE
+Martes,09:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Martes,09:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Martes,10:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Martes,10:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Martes,11:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Martes,11:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Martes,12:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Martes,12:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Martes,13:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Martes,13:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Martes,14:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Martes,14:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Martes,15:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Martes,15:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Martes,16:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Martes,16:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Martes,17:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Martes,17:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,09:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Jueves,09:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,10:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Jueves,10:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,11:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Jueves,11:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,12:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Jueves,12:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,13:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Jueves,13:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,14:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Jueves,14:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,15:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Jueves,15:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,16:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Jueves,16:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,17:00,"Consultorio 21","Dr. Torres",Pediatra,Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 21","Dr. Torres",Pediatra,Vacunacion,DISPONIBLE
+Jueves,17:00,"Consultorio 21","Dr. Torres",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,09:00,"Consultorio 22","Dra. Sanchez",Pediatra,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 22","Dra. Sanchez",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,09:00,"Consultorio 22","Dra. Sanchez",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,10:00,"Consultorio 22","Dra. Sanchez",Pediatra,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 22","Dra. Sanchez",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,10:00,"Consultorio 22","Dra. Sanchez",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,11:00,"Consultorio 22","Dra. Sanchez",Pediatra,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 22","Dra. Sanchez",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,11:00,"Consultorio 22","Dra. Sanchez",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,12:00,"Consultorio 22","Dra. Sanchez",Pediatra,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 22","Dra. Sanchez",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,12:00,"Consultorio 22","Dra. Sanchez",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,13:00,"Consultorio 22","Dra. Sanchez",Pediatra,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 22","Dra. Sanchez",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,13:00,"Consultorio 22","Dra. Sanchez",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,14:00,"Consultorio 22","Dra. Sanchez",Pediatra,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 22","Dra. Sanchez",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,14:00,"Consultorio 22","Dra. Sanchez",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,15:00,"Consultorio 22","Dra. Sanchez",Pediatra,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 22","Dra. Sanchez",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,15:00,"Consultorio 22","Dra. Sanchez",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,16:00,"Consultorio 22","Dra. Sanchez",Pediatra,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 22","Dra. Sanchez",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,16:00,"Consultorio 22","Dra. Sanchez",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,17:00,"Consultorio 22","Dra. Sanchez",Pediatra,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 22","Dra. Sanchez",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,17:00,"Consultorio 22","Dra. Sanchez",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,09:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Jueves,09:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,10:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Jueves,10:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,11:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Jueves,11:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,12:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Jueves,12:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,13:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Jueves,13:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,14:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Jueves,14:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,15:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Jueves,15:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,16:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Jueves,16:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,17:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Jueves,17:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Viernes,09:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Viernes,09:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Viernes,10:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Viernes,10:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Viernes,11:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Viernes,11:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Viernes,12:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Viernes,12:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Viernes,13:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Viernes,13:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Viernes,14:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Viernes,14:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Viernes,15:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Viernes,15:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Viernes,16:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Viernes,16:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Viernes,17:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 23","Dr. Gutierrez",Pediatra,Vacunacion,DISPONIBLE
+Viernes,17:00,"Consultorio 23","Dr. Gutierrez",Pediatra,"Control de niño sano",DISPONIBLE
+Lunes,09:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Lunes,09:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Lunes,10:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Lunes,10:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Lunes,11:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Lunes,11:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Lunes,12:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Lunes,12:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Lunes,13:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Lunes,13:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Lunes,14:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Lunes,14:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Lunes,15:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Lunes,15:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Lunes,16:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Lunes,16:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Lunes,17:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Lunes,17:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,09:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Jueves,09:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,10:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Jueves,10:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,11:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Jueves,11:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,12:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Jueves,12:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,13:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Jueves,13:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,14:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Jueves,14:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,15:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Jueves,15:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,16:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Jueves,16:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Jueves,17:00,"Consultorio 24","Dra. Cabrera",Pediatra,Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 24","Dra. Cabrera",Pediatra,Vacunacion,DISPONIBLE
+Jueves,17:00,"Consultorio 24","Dra. Cabrera",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,09:00,"Consultorio 25","Dr. Ramos",Pediatra,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 25","Dr. Ramos",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,09:00,"Consultorio 25","Dr. Ramos",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,10:00,"Consultorio 25","Dr. Ramos",Pediatra,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 25","Dr. Ramos",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,10:00,"Consultorio 25","Dr. Ramos",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,11:00,"Consultorio 25","Dr. Ramos",Pediatra,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 25","Dr. Ramos",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,11:00,"Consultorio 25","Dr. Ramos",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,12:00,"Consultorio 25","Dr. Ramos",Pediatra,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 25","Dr. Ramos",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,12:00,"Consultorio 25","Dr. Ramos",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,13:00,"Consultorio 25","Dr. Ramos",Pediatra,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 25","Dr. Ramos",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,13:00,"Consultorio 25","Dr. Ramos",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,14:00,"Consultorio 25","Dr. Ramos",Pediatra,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 25","Dr. Ramos",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,14:00,"Consultorio 25","Dr. Ramos",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,15:00,"Consultorio 25","Dr. Ramos",Pediatra,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 25","Dr. Ramos",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,15:00,"Consultorio 25","Dr. Ramos",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,16:00,"Consultorio 25","Dr. Ramos",Pediatra,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 25","Dr. Ramos",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,16:00,"Consultorio 25","Dr. Ramos",Pediatra,"Control de niño sano",DISPONIBLE
+Miercoles,17:00,"Consultorio 25","Dr. Ramos",Pediatra,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 25","Dr. Ramos",Pediatra,Vacunacion,DISPONIBLE
+Miercoles,17:00,"Consultorio 25","Dr. Ramos",Pediatra,"Control de niño sano",DISPONIBLE
+Martes,09:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Martes,09:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Martes,10:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Martes,10:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Martes,11:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Martes,11:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Martes,12:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Martes,12:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Martes,13:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Martes,13:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Martes,14:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Martes,14:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Martes,15:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Martes,15:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Martes,16:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Martes,16:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Martes,17:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Martes,17:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Jueves,09:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Jueves,09:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Jueves,10:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Jueves,10:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Jueves,11:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Jueves,11:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Jueves,12:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Jueves,12:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Jueves,13:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Jueves,13:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Jueves,14:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Jueves,14:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Jueves,15:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Jueves,15:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Jueves,16:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Jueves,16:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Jueves,17:00,"Consultorio 26","Dra. Diaz",Dermatologo,Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 26","Dra. Diaz",Dermatologo,Peeling,DISPONIBLE
+Jueves,17:00,"Consultorio 26","Dra. Diaz",Dermatologo,Crioterapia,DISPONIBLE
+Lunes,09:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Lunes,09:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Lunes,09:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Lunes,10:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Lunes,10:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Lunes,10:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Lunes,11:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Lunes,11:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Lunes,11:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Lunes,12:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Lunes,12:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Lunes,12:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Lunes,13:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Lunes,13:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Lunes,13:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Lunes,14:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Lunes,14:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Lunes,14:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Lunes,15:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Lunes,15:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Lunes,15:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Lunes,16:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Lunes,16:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Lunes,16:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Lunes,17:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Lunes,17:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Lunes,17:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Martes,09:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Martes,09:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Martes,10:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Martes,10:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Martes,11:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Martes,11:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Martes,12:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Martes,12:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Martes,13:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Martes,13:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Martes,14:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Martes,14:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Martes,15:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Martes,15:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Martes,16:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Martes,16:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Martes,17:00,"Consultorio 27","Dr. Perez",Dermatologo,Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 27","Dr. Perez",Dermatologo,Peeling,DISPONIBLE
+Martes,17:00,"Consultorio 27","Dr. Perez",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,09:00,"Consultorio 28","Dra. Torres",Dermatologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 28","Dra. Torres",Dermatologo,Peeling,DISPONIBLE
+Miercoles,09:00,"Consultorio 28","Dra. Torres",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,10:00,"Consultorio 28","Dra. Torres",Dermatologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 28","Dra. Torres",Dermatologo,Peeling,DISPONIBLE
+Miercoles,10:00,"Consultorio 28","Dra. Torres",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,11:00,"Consultorio 28","Dra. Torres",Dermatologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 28","Dra. Torres",Dermatologo,Peeling,DISPONIBLE
+Miercoles,11:00,"Consultorio 28","Dra. Torres",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,12:00,"Consultorio 28","Dra. Torres",Dermatologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 28","Dra. Torres",Dermatologo,Peeling,DISPONIBLE
+Miercoles,12:00,"Consultorio 28","Dra. Torres",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,13:00,"Consultorio 28","Dra. Torres",Dermatologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 28","Dra. Torres",Dermatologo,Peeling,DISPONIBLE
+Miercoles,13:00,"Consultorio 28","Dra. Torres",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,14:00,"Consultorio 28","Dra. Torres",Dermatologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 28","Dra. Torres",Dermatologo,Peeling,DISPONIBLE
+Miercoles,14:00,"Consultorio 28","Dra. Torres",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,15:00,"Consultorio 28","Dra. Torres",Dermatologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 28","Dra. Torres",Dermatologo,Peeling,DISPONIBLE
+Miercoles,15:00,"Consultorio 28","Dra. Torres",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,16:00,"Consultorio 28","Dra. Torres",Dermatologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 28","Dra. Torres",Dermatologo,Peeling,DISPONIBLE
+Miercoles,16:00,"Consultorio 28","Dra. Torres",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,17:00,"Consultorio 28","Dra. Torres",Dermatologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 28","Dra. Torres",Dermatologo,Peeling,DISPONIBLE
+Miercoles,17:00,"Consultorio 28","Dra. Torres",Dermatologo,Crioterapia,DISPONIBLE
+Martes,09:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Martes,09:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Martes,10:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Martes,10:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Martes,11:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Martes,11:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Martes,12:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Martes,12:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Martes,13:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Martes,13:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Martes,14:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Martes,14:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Martes,15:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Martes,15:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Martes,16:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Martes,16:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Martes,17:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Martes,17:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Viernes,09:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Viernes,09:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Viernes,10:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Viernes,10:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Viernes,11:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Viernes,11:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Viernes,12:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Viernes,12:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Viernes,13:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Viernes,13:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Viernes,14:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Viernes,14:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Viernes,15:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Viernes,15:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Viernes,16:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Viernes,16:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Viernes,17:00,"Consultorio 29","Dr. Medina",Dermatologo,Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 29","Dr. Medina",Dermatologo,Peeling,DISPONIBLE
+Viernes,17:00,"Consultorio 29","Dr. Medina",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,09:00,"Consultorio 30","Dra. Castro",Dermatologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 30","Dra. Castro",Dermatologo,Peeling,DISPONIBLE
+Miercoles,09:00,"Consultorio 30","Dra. Castro",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,10:00,"Consultorio 30","Dra. Castro",Dermatologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 30","Dra. Castro",Dermatologo,Peeling,DISPONIBLE
+Miercoles,10:00,"Consultorio 30","Dra. Castro",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,11:00,"Consultorio 30","Dra. Castro",Dermatologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 30","Dra. Castro",Dermatologo,Peeling,DISPONIBLE
+Miercoles,11:00,"Consultorio 30","Dra. Castro",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,12:00,"Consultorio 30","Dra. Castro",Dermatologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 30","Dra. Castro",Dermatologo,Peeling,DISPONIBLE
+Miercoles,12:00,"Consultorio 30","Dra. Castro",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,13:00,"Consultorio 30","Dra. Castro",Dermatologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 30","Dra. Castro",Dermatologo,Peeling,DISPONIBLE
+Miercoles,13:00,"Consultorio 30","Dra. Castro",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,14:00,"Consultorio 30","Dra. Castro",Dermatologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 30","Dra. Castro",Dermatologo,Peeling,DISPONIBLE
+Miercoles,14:00,"Consultorio 30","Dra. Castro",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,15:00,"Consultorio 30","Dra. Castro",Dermatologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 30","Dra. Castro",Dermatologo,Peeling,DISPONIBLE
+Miercoles,15:00,"Consultorio 30","Dra. Castro",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,16:00,"Consultorio 30","Dra. Castro",Dermatologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 30","Dra. Castro",Dermatologo,Peeling,DISPONIBLE
+Miercoles,16:00,"Consultorio 30","Dra. Castro",Dermatologo,Crioterapia,DISPONIBLE
+Miercoles,17:00,"Consultorio 30","Dra. Castro",Dermatologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 30","Dra. Castro",Dermatologo,Peeling,DISPONIBLE
+Miercoles,17:00,"Consultorio 30","Dra. Castro",Dermatologo,Crioterapia,DISPONIBLE
+Martes,09:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Martes,09:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Martes,10:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Martes,10:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Martes,11:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Martes,11:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Martes,12:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Martes,12:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Martes,13:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Martes,13:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Martes,14:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Martes,14:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Martes,15:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Martes,15:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Martes,16:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Martes,16:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Martes,17:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Martes,17:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,09:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,09:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,10:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,10:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,11:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,11:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,12:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,12:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,13:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,13:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,14:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,14:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,15:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,15:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,16:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,16:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,17:00,"Consultorio 31","Dr. Suarez",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,17:00,"Consultorio 31","Dr. Suarez",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Jueves,09:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Jueves,09:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Jueves,10:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Jueves,10:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Jueves,11:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Jueves,11:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Jueves,12:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Jueves,12:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Jueves,13:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Jueves,13:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Jueves,14:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Jueves,14:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Jueves,15:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Jueves,15:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Jueves,16:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Jueves,16:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Jueves,17:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Jueves,17:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Viernes,09:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Viernes,09:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Viernes,10:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Viernes,10:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Viernes,11:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Viernes,11:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Viernes,12:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Viernes,12:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Viernes,13:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Viernes,13:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Viernes,14:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Viernes,14:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Viernes,15:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Viernes,15:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Viernes,16:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Viernes,16:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Viernes,17:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Control visual",DISPONIBLE
+Viernes,17:00,"Consultorio 32","Dra. Lopez A.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,09:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,09:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,10:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,10:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,11:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,11:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,12:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,12:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,13:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,13:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,14:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,14:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,15:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,15:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,16:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,16:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,17:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,17:00,"Consultorio 33","Dr. Fernandez R.",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,09:00,"Consultorio 34","Dra. Rivas",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,09:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,10:00,"Consultorio 34","Dra. Rivas",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,10:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,11:00,"Consultorio 34","Dra. Rivas",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,11:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,12:00,"Consultorio 34","Dra. Rivas",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,12:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,13:00,"Consultorio 34","Dra. Rivas",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,13:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,14:00,"Consultorio 34","Dra. Rivas",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,14:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,15:00,"Consultorio 34","Dra. Rivas",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,15:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,16:00,"Consultorio 34","Dra. Rivas",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,16:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,17:00,"Consultorio 34","Dra. Rivas",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,17:00,"Consultorio 34","Dra. Rivas",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,09:00,"Consultorio 35","Dr. Meza",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,09:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,10:00,"Consultorio 35","Dr. Meza",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,10:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,11:00,"Consultorio 35","Dr. Meza",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,11:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,12:00,"Consultorio 35","Dr. Meza",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,12:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,13:00,"Consultorio 35","Dr. Meza",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,13:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,14:00,"Consultorio 35","Dr. Meza",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,14:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,15:00,"Consultorio 35","Dr. Meza",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,15:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,16:00,"Consultorio 35","Dr. Meza",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,16:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Miercoles,17:00,"Consultorio 35","Dr. Meza",Oftalmologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Control visual",DISPONIBLE
+Miercoles,17:00,"Consultorio 35","Dr. Meza",Oftalmologo,"Fondo de ojo",DISPONIBLE
+Martes,09:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,09:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,10:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,10:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,11:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,11:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,12:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,12:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,13:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,13:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,14:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,14:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,15:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,15:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,16:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,16:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,17:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,17:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,09:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,09:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,10:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,10:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,11:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,11:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,12:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,12:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,13:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,13:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,14:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,14:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,15:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,15:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,16:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,16:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,17:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,17:00,"Consultorio 36","Dr. Bravo",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,09:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Martes,09:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,09:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,10:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Martes,10:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,10:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,11:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Martes,11:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,11:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,12:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Martes,12:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,12:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,13:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Martes,13:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,13:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,14:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Martes,14:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,14:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,15:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Martes,15:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,15:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,16:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Martes,16:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,16:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Martes,17:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Martes,17:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Martes,17:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,09:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,09:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,10:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,10:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,11:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,11:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,12:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,12:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,13:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,13:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,14:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,14:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,15:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,15:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,16:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,16:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,17:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,17:00,"Consultorio 37","Dra. Alonso",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,09:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,09:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,10:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,10:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,11:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,11:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,12:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,12:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,13:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,13:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,14:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,14:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,15:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,15:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,16:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,16:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,17:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,17:00,"Consultorio 38","Dr. Cabrera",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Jueves,09:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Jueves,09:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Jueves,09:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Jueves,10:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Jueves,10:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Jueves,10:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Jueves,11:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Jueves,11:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Jueves,11:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Jueves,12:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Jueves,12:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Jueves,12:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Jueves,13:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Jueves,13:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Jueves,13:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Jueves,14:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Jueves,14:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Jueves,14:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Jueves,15:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Jueves,15:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Jueves,15:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Jueves,16:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Jueves,16:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Jueves,16:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Jueves,17:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Jueves,17:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Jueves,17:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Viernes,09:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Viernes,09:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Viernes,09:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Viernes,10:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Viernes,10:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Viernes,10:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Viernes,11:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Viernes,11:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Viernes,11:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Viernes,12:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Viernes,12:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Viernes,12:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Viernes,13:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Viernes,13:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Viernes,13:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Viernes,14:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Viernes,14:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Viernes,14:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Viernes,15:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Viernes,15:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Viernes,15:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Viernes,16:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Viernes,16:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Viernes,16:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Viernes,17:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Consulta,DISPONIBLE
+Viernes,17:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,Endoscopia,DISPONIBLE
+Viernes,17:00,"Consultorio 39","Dra. Flores M.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,09:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,09:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,09:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,10:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,10:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,10:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,11:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,11:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,11:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,12:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,12:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,12:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,13:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,13:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,13:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,14:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,14:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,14:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,15:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,15:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,15:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,16:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,16:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,16:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
+Miercoles,17:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Consulta,DISPONIBLE
+Miercoles,17:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,Endoscopia,DISPONIBLE
+Miercoles,17:00,"Consultorio 40","Dr. Ruiz C.",Gastroenterologo,"Control post-tratamiento",DISPONIBLE
