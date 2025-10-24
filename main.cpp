@@ -159,7 +159,7 @@ public:
         for (const auto& m : medicos) {
             vector<string> practicas;
             if (m.getEspecialidad() == "Medico Clinico")
-                practicas = { "Consulta general", "Control anual" };
+                practicas = { "Consulta", "Control anual Medico Clinico", "Vacunacion mayores de edad"};
             else if (m.getEspecialidad() == "Cardiologo")
                 practicas = { "Consulta", "Electrocardiograma" };
             else if (m.getEspecialidad() == "Traumatologo")
@@ -167,11 +167,11 @@ public:
             else if (m.getEspecialidad() == "Obstetra")
                 practicas = { "Consulta", "Ecografia obstetrica", "Control prenatal" };
             else if (m.getEspecialidad() == "Pediatra")
-                practicas = { "Consulta", "Vacunacion" };
+                practicas = { "Consulta", "Vacunacion menores de edad" };
             else if (m.getEspecialidad() == "Dermatologo")
-                practicas = { "Consulta", "Control de tratamiento" };
+                practicas = { "Consulta", "Tratamiento lunares" };
             else if (m.getEspecialidad() == "Oftalmologo")
-                practicas = { "Consulta", "Fondo de ojo" };
+                practicas = { "Consulta", "Fondo de ojos" };
             else if (m.getEspecialidad() == "Gastroenterologo")
                 practicas = { "Consulta", "Endoscopia" };
             else
@@ -376,32 +376,55 @@ public:
     // ---------- Tomar turno por práctica ----------
     void tomarTurnoPorPractica() {
         vector<string> practicas;
-        for (const auto& t : turnos)
-            if (find(practicas.begin(), practicas.end(), t.getPractica()) == practicas.end())
-                practicas.push_back(t.getPractica());
+
+        // Cargar prácticas únicas, excluyendo "Consulta"
+        for (const auto& t : turnos) {
+            string pract = t.getPractica();
+            if (pract == "Consulta") continue; //ignorar "Consulta"
+
+            if (find(practicas.begin(), practicas.end(), pract) == practicas.end())
+                practicas.push_back(pract);
+        }
+
+        if (practicas.empty()) {
+            cout << "\nNo hay prácticas disponibles en este momento.\n";
+            return;
+        }
 
         cout << "\n=== PRACTICAS DISPONIBLES ===\n";
         for (size_t i = 0; i < practicas.size(); i++)
             cout << i + 1 << ". " << practicas[i] << endl;
 
-        cout << "\nSeleccione el numero de la practica: ";
-        int opp; cin >> opp; cin.ignore();
+        cout << "\nSeleccione el número de la práctica: ";
+        int opp;
+        cin >> opp;
+        cin.ignore();
         if (opp < 1 || opp >(int)practicas.size()) return;
 
         string practicaElegida = practicas[opp - 1];
+
+        // Médicos disponibles para esa práctica
         vector<string> medDisp;
         for (const auto& t : turnos)
             if (t.getPractica() == practicaElegida && !t.estaOcupado()
                 && find(medDisp.begin(), medDisp.end(), t.getMedico()) == medDisp.end())
                 medDisp.push_back(t.getMedico());
 
+        if (medDisp.empty()) {
+            cout << "\nNo hay medicos disponibles para esta practica.\n";
+            return;
+        }
+
         cout << "\n=== MEDICOS QUE REALIZAN " << practicaElegida << " ===\n";
         for (size_t i = 0; i < medDisp.size(); i++)
             cout << i + 1 << ". " << medDisp[i] << endl;
 
         cout << "\nSeleccione el numero del medico: ";
-        int opm; cin >> opm; cin.ignore();
+        int opm;
+        cin >> opm;
+        cin.ignore();
         if (opm < 1 || opm >(int)medDisp.size()) return;
+
         string elegido = medDisp[opm - 1];
 
         cout << "\n=== TURNOS DISPONIBLES DE " << elegido << " ===\n";
@@ -412,32 +435,41 @@ public:
                 disp.push_back(i);
             }
 
-        if (disp.empty()) { cout << "No hay turnos disponibles.\n"; return; }
+        if (disp.empty()) {
+            cout << "No hay turnos disponibles.\n";
+            return;
+        }
 
         cout << "\nIngrese el numero del turno: ";
-        int num; cin >> num; cin.ignore();
+        int num;
+        cin >> num;
+        cin.ignore();
 
-        if (find(disp.begin(), disp.end(), num) == disp.end()) { cout << "Numero invalido.\n"; return; }
+        if (find(disp.begin(), disp.end(), num) == disp.end()) {
+            cout << "Numero invalido.\n";
+            return;
+        }
 
+        // Datos del paciente
         string n, a, d, o;
         cout << "\nIngrese los datos del paciente:\n";
-        cout << "\nNombre: "; getline(cin, n);
+        cout << "Nombre: "; getline(cin, n);
         cout << "Apellido: "; getline(cin, a);
         cout << "DNI: "; getline(cin, d);
         cout << "Obra social: "; getline(cin, o);
 
         Paciente p(n, a, d, o);
         turnos[num].asignarPaciente(p);
+
         cout << "\nTurno reservado con exito!\n";
         cout << "Paciente: " << p.getResumen() << endl;
-        cout << "Practica: " << turnos[num].getPractica() << endl;
         cout << "Profesional: " << turnos[num].getMedico()
             << " (" << turnos[num].getEspecialidad() << ")\n";
         cout << "Dia: " << turnos[num].getDia()
             << " - Hora: " << turnos[num].getHora() << "\n";
         cout << "Consultorio: " << turnos[num].getConsultorio() << endl;
-        cout << "\nTurno reservado correctamente.\n";
     }
+
 
     // ---------- Cancelar turno ----------
     void cancelarTurno() {
