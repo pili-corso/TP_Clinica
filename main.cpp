@@ -68,10 +68,10 @@ public:
         else
             return "-";
     }
-    // Carga un resumen de paciente desde el CSV (solo texto, no datos reales)
+    // Cargo un resumen de paciente desde el CSV (solo texto, no datos reales)
     void setPacienteResumen(const string& resumen) {
         if (resumen != "-")
-            paciente = Paciente(resumen, "", "", ""); // Crea un paciente con el resumen como nombre
+            paciente = Paciente(resumen, "", "", ""); // Creo un paciente con el resumen como nombre
     }
 };
 
@@ -100,12 +100,24 @@ private:
     string archivoCSV = "turnos.csv"; //defino el nombre (y ruta) del archivo CSV
 
 public:
+    // ---------- Constructor ----------
     Clinica() {
-        inicializarMedicos();
-        cargarTurnosDesdeCSV();
+        // Verifico si el archivo existe antes de intentar cargarlo
+        ifstream fileCheck(archivoCSV);
+        if (fileCheck.good()) {
+            cargarTurnosDesdeCSV();
+            cout << "\nArchivo existente cargado correctamente.\n";
+        }
+        else {
+            cout << "\nArchivo CSV no encontrado. Creando uno nuevo...\n";
+            inicializarMedicos();
+            guardarTurnosEnCSV();
+            cout << "Archivo base creado correctamente.\n";
+        }
     }
 
-    // ---------- Inicializar médicos y crear turnos ----------
+
+    // ---------- Inicializo médicos y creo turnos ----------
     void inicializarMedicos() {
         medicos = {
             // Medico Clinico
@@ -196,50 +208,43 @@ public:
         }
     }
 
-    // ---------- Guardar / Cargar CSV ----------
+    // ---------- Guardar los turnos en CSV ----------
     void guardarTurnosEnCSV() {
-        vector<string> med, esp, cons, dia, hora, prac, estado, pacienteCol;
-
-        for (const auto& t : turnos) {
-            med.push_back(t.getMedico());
-            esp.push_back(t.getEspecialidad());
-            cons.push_back(t.getConsultorio());
-            dia.push_back(t.getDia());
-            hora.push_back(t.getHora());
-            prac.push_back(t.getPractica());
-            estado.push_back(t.estaOcupado() ? "OCUPADO" : "DISPONIBLE");
-            pacienteCol.push_back(t.getPacienteResumen());
+        ofstream archivo(archivoCSV, ios::trunc); //Reescribe todo el archivo desde cero
+        if (!archivo.is_open()) {
+            cerr << "Error al abrir el archivo para guardar.\n";
+            return;
         }
 
-        // Crear el documento con etiquetas de columnas (encabezados)
-        rapidcsv::Document doc("", rapidcsv::LabelParams(0, -1));
+        // Escribo la línea de encabezados (opcional, visible en Excel)
+        archivo << "Medico;Especialidad;Consultorio;Dia;Hora;Practica;Estado;Paciente\n";
 
-        doc.InsertColumn(0, med, "Medico");
-        doc.InsertColumn(1, esp, "Especialidad");
-        doc.InsertColumn(2, cons, "Consultorio");
-        doc.InsertColumn(3, dia, "Dia");
-        doc.InsertColumn(4, hora, "Hora");
-        doc.InsertColumn(5, prac, "Practica");
-        doc.InsertColumn(6, estado, "Estado");
-        doc.InsertColumn(7, pacienteCol, "Paciente");
+        // Escribo cada turno en una línea
+        for (const auto& t : turnos) {
+            archivo << t.getMedico() << ";"
+                << t.getEspecialidad() << ";"
+                << t.getConsultorio() << ";"
+                << t.getDia() << ";"
+                << t.getHora() << ";"
+                << t.getPractica() << ";"
+                << (t.estaOcupado() ? "OCUPADO" : "DISPONIBLE") << ";"
+                << t.getPacienteResumen() << "\n";
+        }
 
-        // Guardar el archivo CSV con separador de punto y coma (;)
-        doc.Save(archivoCSV);
+        archivo.close();
         cout << "\nArchivo CSV actualizado correctamente.\n";
     }
 
+    // ---------- Cargar turnos desde CSV ----------
     void cargarTurnosDesdeCSV() {
         try {
-            // Intento abrir el archivo CSV existente (con separador ';')
             rapidcsv::Document doc(
                 archivoCSV,
-                rapidcsv::LabelParams(-1, -1),
+                rapidcsv::LabelParams(-1, -1),    //SIN encabezados
                 rapidcsv::SeparatorParams(';')
             );
 
             int filas = doc.GetRowCount();
-
-            // Limpio la lista actual de turnos para no duplicar
             turnos.clear();
 
             for (int i = 0; i < filas; i++) {
@@ -254,21 +259,16 @@ public:
 
                 bool ocupado = (est == "OCUPADO");
                 Turno turno(m, e, c, d, h, p, ocupado);
-
-                // Si el turno estaba ocupado, restauro los datos del paciente
-                if (ocupado && resumenPaciente != "-") {
+                if (ocupado && resumenPaciente != "-")
                     turno.setPacienteResumen(resumenPaciente);
-                }
 
                 turnos.push_back(turno);
             }
 
             cout << "\nTurnos cargados correctamente desde '" << archivoCSV << "'.\n";
         }
-        catch (...) {
-            cout << "\nNo se encontro el archivo CSV. Se creara uno nuevo con todos los turnos.\n";
-            guardarTurnosEnCSV();
-            cout << "\nArchivo CSV creado correctamente.\n";
+        catch (exception& ex) {
+            cerr << "\nError al leer el archivo CSV: " << ex.what() << endl;
         }
     }
 
@@ -421,7 +421,7 @@ public:
     void tomarTurnoPorPractica() {
         vector<string> practicas;
 
-        // Cargar prácticas únicas, excluyendo "Consulta"
+        // Cargo prácticas únicas, excluyendo "Consulta"
         for (const auto& t : turnos) {
             string pract = t.getPractica();
             if (pract == "Consulta") continue; //ignorar "Consulta"
@@ -515,34 +515,70 @@ public:
         guardarTurnosEnCSV();
     }
 
-
-    // ---------- Cancelar turno ----------
+   // ---------- Cancelar turno ----------
     void cancelarTurno() {
-        cout << "\n=== TURNOS OCUPADOS ===\n";
-        vector<int> ocup;
-        for (int i = 0; i < (int)turnos.size(); i++)
-            if (turnos[i].estaOcupado()) {
-                turnos[i].mostrar(i);
-                ocup.push_back(i);
+        cout << "\n=== CANCELAR TURNO ===\n";
+        string nombre, apellido;
+        cout << "Ingrese el nombre del paciente: ";
+        getline(cin, nombre);
+        cout << "Ingrese el apellido del paciente: ";
+        getline(cin, apellido);
+
+        string buscado = nombre + " " + apellido;
+        vector<int> turnosPaciente;
+
+        cout << "\n=== TURNOS RESERVADOS DE " << buscado << " ===\n";
+        for (int i = 0; i < (int)turnos.size(); i++) {
+            // Busco los turnos donde figure este paciente
+            if (turnos[i].estaOcupado() && turnos[i].getPacienteResumen().find(buscado) != string::npos) {
+                cout << setw(3) << i << " | " << turnos[i].getDia() << " " << turnos[i].getHora()
+                    << " | " << turnos[i].getMedico() << " (" << turnos[i].getEspecialidad() << ")"
+                    << " | " << turnos[i].getPractica()
+                    << " | " << turnos[i].getConsultorio() << endl;
+                turnosPaciente.push_back(i);
             }
-        if (ocup.empty()) { cout << "No hay turnos ocupados.\n"; return; }
+        }
 
-        cout << "\nIngrese el numero del turno a cancelar: ";
-        int num; cin >> num; cin.ignore();
-        if (find(ocup.begin(), ocup.end(), num) == ocup.end()) { cout << "Numero invalido.\n"; return; }
+        if (turnosPaciente.empty()) {
+            cout << "\nNo se encontraron turnos registrados para " << buscado << ".\n";
+            return;
+        }
 
-        turnos[num].liberar();
-        cout << "\nTurno cancelado correctamente.\n";
-        guardarTurnosEnCSV();
+        cout << "\nIngrese el numero del turno que desea cancelar: ";
+        int num;
+        cin >> num;
+        cin.ignore();
+
+        // Verificar que el número sea válido
+        if (find(turnosPaciente.begin(), turnosPaciente.end(), num) == turnosPaciente.end()) {
+            cout << "\nNumero invalido o ese turno no pertenece a este paciente.\n";
+            return;
+        }
+
+        // Confirmación
+        cout << "\n¿Confirma que desea cancelar este turno? (s/n): ";
+        char conf;
+        cin >> conf;
+        cin.ignore();
+
+        if (conf == 's' || conf == 'S') {
+            turnos[num].liberar();
+            guardarTurnosEnCSV();
+            cout << "\nTurno cancelado correctamente.\n";
+        }
+        else {
+            cout << "\nOperacion cancelada.\n";
+        }
     }
+
 
     // ---------- Ver turnos del paciente ----------
     void verTurnosDePaciente() {
         string nombre, apellido;
         cout << "\n=== CONSULTAR TURNOS DEL PACIENTE ===\n";
-        cout << "Nombre: ";
+        cout << "Nombre del paciente: ";
         getline(cin, nombre);
-        cout << "Apellido: ";
+        cout << "Apellido del paciente: ";
         getline(cin, apellido);
 
         string buscado = nombre + " " + apellido;
