@@ -1,12 +1,12 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include <iomanip>
-#include <algorithm>
+#include <iostream> //Para entrada/salida
+#include <string> //Para manejo de texto
+#include <vector> //Para usar listas dinámicas
+#include <iomanip> //Para el formato de salida/impresion
+#include <algorithm> //Para funciones de busqueda y ordenamiento
 #include "C:\Users\Pili\Downloads\rapidcsv-master\rapidcsv-master\src\rapidcsv.h"
-using namespace std;
 
 using namespace std;
+
 
 // =================== CLASE PACIENTE ===================
 class Paciente {
@@ -61,6 +61,13 @@ public:
         if (ocupado) cout << " | " << paciente.getResumen();
         cout << endl;
     }
+    string getPacienteResumen() const {
+        if (estaOcupado())
+            return paciente.getResumen();
+        else
+            return "-";
+    }
+
 };
 
 // =================== CLASE MEDICO ===================
@@ -85,12 +92,13 @@ class Clinica {
 private:
     vector<Medico> medicos;
     vector<Turno> turnos;
-    string archivoCSV = "turnos.csv";
+    string archivoCSV = "turnos.csv"; //defino el nombre (y ruta) del archivo CSV
 
 public:
     Clinica() {
         inicializarMedicos();
         cargarTurnosDesdeCSV();
+        guardarTurnosEnCSV(); //asegura que exista el archivo con la estructura base
     }
 
     // ---------- Inicializar médicos y crear turnos ----------
@@ -186,7 +194,7 @@ public:
 
     // ---------- Guardar / Cargar CSV ----------
     void guardarTurnosEnCSV() {
-        vector<string> med, esp, cons, dia, hora, prac, estado;
+        vector<string> med, esp, cons, dia, hora, prac, estado, pacientes;
 
         for (const auto& t : turnos) {
             med.push_back(t.getMedico());
@@ -196,6 +204,11 @@ public:
             hora.push_back(t.getHora());
             prac.push_back(t.getPractica());
             estado.push_back(t.estaOcupado() ? "OCUPADO" : "DISPONIBLE");
+
+            if (t.estaOcupado())
+                pacientes.push_back(t.getPacienteResumen());
+            else
+                pacientes.push_back("-");
         }
 
         rapidcsv::Document doc("", rapidcsv::LabelParams(-1, -1));
@@ -206,8 +219,10 @@ public:
         doc.SetColumn<string>(4, hora);
         doc.SetColumn<string>(5, prac);
         doc.SetColumn<string>(6, estado);
-        doc.Save(archivoCSV);
+        doc.SetColumn<string>(7, pacientes); 
+        doc.Save(archivoCSV); //crea o actualiza el archivo con los datos
     }
+
 
     void cargarTurnosDesdeCSV() {
         try {
@@ -221,14 +236,27 @@ public:
                 string h = doc.GetCell<string>(4, i);
                 string p = doc.GetCell<string>(5, i);
                 string est = doc.GetCell<string>(6, i);
+                string pac = (doc.GetColumnCount() > 7) ? doc.GetCell<string>(7, i) : "-";
+
                 bool o = (est == "OCUPADO");
-                turnos.emplace_back(m, e, c, d, h, p, o);
+                Turno t(m, e, c, d, h, p, o);
+
+                // si el turno estaba ocupado, guardo el resumen del paciente
+                if (o && pac != "-") {
+                    // no puedo reconstruir los datos completos, pero se puede mostrar al listar
+                    Paciente pacTemp("Desconocido", "", "", "");
+                    t.asignarPaciente(pacTemp);
+                }
+
+                turnos.push_back(t);
             }
+
         }
         catch (...) {
             guardarTurnosEnCSV();
         }
     }
+
 
     // ---------- Mostrar especialidades ----------
     void mostrarEspecialidades() const {
@@ -307,6 +335,7 @@ public:
         cout << "Dia: " << turnos[num].getDia()
             << " - Hora: " << turnos[num].getHora() << "\n";
         cout << "Consultorio: " << turnos[num].getConsultorio() << endl;
+        guardarTurnosEnCSV();
     }
 
 
@@ -370,6 +399,7 @@ public:
         cout << "Dia: " << turnos[num].getDia()
             << " - Hora: " << turnos[num].getHora() << "\n";
         cout << "Consultorio: " << turnos[num].getConsultorio() << endl;
+        guardarTurnosEnCSV();
 
     }
 
@@ -387,7 +417,7 @@ public:
         }
 
         if (practicas.empty()) {
-            cout << "\nNo hay prácticas disponibles en este momento.\n";
+            cout << "\nNo hay practicas disponibles en este momento.\n";
             return;
         }
 
@@ -395,7 +425,7 @@ public:
         for (size_t i = 0; i < practicas.size(); i++)
             cout << i + 1 << ". " << practicas[i] << endl;
 
-        cout << "\nSeleccione el número de la práctica: ";
+        cout << "\nSeleccione el numero de la practica: ";
         int opp;
         cin >> opp;
         cin.ignore();
@@ -468,6 +498,7 @@ public:
         cout << "Dia: " << turnos[num].getDia()
             << " - Hora: " << turnos[num].getHora() << "\n";
         cout << "Consultorio: " << turnos[num].getConsultorio() << endl;
+        guardarTurnosEnCSV();
     }
 
 
@@ -488,6 +519,7 @@ public:
 
         turnos[num].liberar();
         cout << "\nTurno cancelado correctamente.\n";
+        guardarTurnosEnCSV();
     }
 
     // ---------- Menú principal ----------
@@ -513,7 +545,7 @@ public:
             case 6: guardarTurnosEnCSV(); cout << "\nSaliendo del sistema...\n"; break;
             default: cout << "\nOpcion invalida.\n";
             }
-        } while (op != 5);
+        } while (op != 6);
     }
 };
 
