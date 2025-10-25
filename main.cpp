@@ -61,13 +61,18 @@ public:
         if (ocupado) cout << " | " << paciente.getResumen();
         cout << endl;
     }
+    // Devuelve el resumen del paciente si el turno está ocupado, o "-" si está libre
     string getPacienteResumen() const {
         if (estaOcupado())
             return paciente.getResumen();
         else
             return "-";
     }
-
+    // Carga un resumen de paciente desde el CSV (solo texto, no datos reales)
+    void setPacienteResumen(const string& resumen) {
+        if (resumen != "-")
+            paciente = Paciente(resumen, "", "", ""); // Crea un paciente con el resumen como nombre
+    }
 };
 
 // =================== CLASE MEDICO ===================
@@ -98,7 +103,6 @@ public:
     Clinica() {
         inicializarMedicos();
         cargarTurnosDesdeCSV();
-        guardarTurnosEnCSV(); //asegura que exista el archivo con la estructura base
     }
 
     // ---------- Inicializar médicos y crear turnos ----------
@@ -194,7 +198,7 @@ public:
 
     // ---------- Guardar / Cargar CSV ----------
     void guardarTurnosEnCSV() {
-        vector<string> med, esp, cons, dia, hora, prac, estado, pacientes;
+        vector<string> med, esp, cons, dia, hora, prac, estado, pacienteCol;
 
         for (const auto& t : turnos) {
             med.push_back(t.getMedico());
@@ -204,59 +208,69 @@ public:
             hora.push_back(t.getHora());
             prac.push_back(t.getPractica());
             estado.push_back(t.estaOcupado() ? "OCUPADO" : "DISPONIBLE");
-
-            if (t.estaOcupado())
-                pacientes.push_back(t.getPacienteResumen());
-            else
-                pacientes.push_back("-");
+            pacienteCol.push_back(t.getPacienteResumen());
         }
 
-        rapidcsv::Document doc("", rapidcsv::LabelParams(-1, -1));
-        doc.SetColumn<string>(0, med);
-        doc.SetColumn<string>(1, esp);
-        doc.SetColumn<string>(2, cons);
-        doc.SetColumn<string>(3, dia);
-        doc.SetColumn<string>(4, hora);
-        doc.SetColumn<string>(5, prac);
-        doc.SetColumn<string>(6, estado);
-        doc.SetColumn<string>(7, pacientes); 
-        doc.Save(archivoCSV); //crea o actualiza el archivo con los datos
-    }
+        // Crear el documento con etiquetas de columnas (encabezados)
+        rapidcsv::Document doc("", rapidcsv::LabelParams(0, -1));
 
+        doc.InsertColumn(0, med, "Medico");
+        doc.InsertColumn(1, esp, "Especialidad");
+        doc.InsertColumn(2, cons, "Consultorio");
+        doc.InsertColumn(3, dia, "Dia");
+        doc.InsertColumn(4, hora, "Hora");
+        doc.InsertColumn(5, prac, "Practica");
+        doc.InsertColumn(6, estado, "Estado");
+        doc.InsertColumn(7, pacienteCol, "Paciente");
+
+        // Guardar el archivo CSV con separador de punto y coma (;)
+        doc.Save(archivoCSV);
+        cout << "\nArchivo CSV actualizado correctamente.\n";
+    }
 
     void cargarTurnosDesdeCSV() {
         try {
-            rapidcsv::Document doc(archivoCSV, rapidcsv::LabelParams(-1, -1));
+            // Intento abrir el archivo CSV existente (con separador ';')
+            rapidcsv::Document doc(
+                archivoCSV,
+                rapidcsv::LabelParams(-1, -1),
+                rapidcsv::SeparatorParams(';')
+            );
+
             int filas = doc.GetRowCount();
+
+            // Limpio la lista actual de turnos para no duplicar
+            turnos.clear();
+
             for (int i = 0; i < filas; i++) {
-                string m = doc.GetCell<string>(0, i);
-                string e = doc.GetCell<string>(1, i);
-                string c = doc.GetCell<string>(2, i);
-                string d = doc.GetCell<string>(3, i);
-                string h = doc.GetCell<string>(4, i);
-                string p = doc.GetCell<string>(5, i);
-                string est = doc.GetCell<string>(6, i);
-                string pac = (doc.GetColumnCount() > 7) ? doc.GetCell<string>(7, i) : "-";
+                string m = doc.GetCell<string>(0, i); // Médico
+                string e = doc.GetCell<string>(1, i); // Especialidad
+                string c = doc.GetCell<string>(2, i); // Consultorio
+                string d = doc.GetCell<string>(3, i); // Día
+                string h = doc.GetCell<string>(4, i); // Hora
+                string p = doc.GetCell<string>(5, i); // Práctica
+                string est = doc.GetCell<string>(6, i); // Estado
+                string resumenPaciente = doc.GetCell<string>(7, i); // Paciente
 
-                bool o = (est == "OCUPADO");
-                Turno t(m, e, c, d, h, p, o);
+                bool ocupado = (est == "OCUPADO");
+                Turno turno(m, e, c, d, h, p, ocupado);
 
-                // si el turno estaba ocupado, guardo el resumen del paciente
-                if (o && pac != "-") {
-                    // no puedo reconstruir los datos completos, pero se puede mostrar al listar
-                    Paciente pacTemp("Desconocido", "", "", "");
-                    t.asignarPaciente(pacTemp);
+                // Si el turno estaba ocupado, restauro los datos del paciente
+                if (ocupado && resumenPaciente != "-") {
+                    turno.setPacienteResumen(resumenPaciente);
                 }
 
-                turnos.push_back(t);
+                turnos.push_back(turno);
             }
 
+            cout << "\nTurnos cargados correctamente desde '" << archivoCSV << "'.\n";
         }
         catch (...) {
+            cout << "\nNo se encontro el archivo CSV. Se creara uno nuevo con todos los turnos.\n";
             guardarTurnosEnCSV();
+            cout << "\nArchivo CSV creado correctamente.\n";
         }
     }
-
 
     // ---------- Mostrar especialidades ----------
     void mostrarEspecialidades() const {
@@ -522,6 +536,38 @@ public:
         guardarTurnosEnCSV();
     }
 
+    // ---------- Ver turnos del paciente ----------
+    void verTurnosDePaciente() {
+        string nombre, apellido;
+        cout << "\n=== CONSULTAR TURNOS DEL PACIENTE ===\n";
+        cout << "Nombre: ";
+        getline(cin, nombre);
+        cout << "Apellido: ";
+        getline(cin, apellido);
+
+        string buscado = nombre + " " + apellido;
+
+        bool encontrado = false;
+        cout << "\n=== TURNOS RESERVADOS DE " << buscado << " ===\n";
+
+        for (const auto& t : turnos) {
+            // Compara el nombre y apellido dentro del resumen del paciente
+            if (t.getPacienteResumen().find(buscado) != string::npos && t.estaOcupado()) {
+                cout << "Profesional: " << t.getMedico()
+                    << " (" << t.getEspecialidad() << ")\n";
+                cout << "Practica: " << t.getPractica() << endl;
+                cout << "Dia: " << t.getDia()
+                    << " - Hora: " << t.getHora() << endl;
+                cout << "Consultorio: " << t.getConsultorio() << endl;
+                cout << "----------------------------------------\n";
+                encontrado = true;
+            }
+        }
+
+        if (!encontrado)
+            cout << "\nNo se encontraron turnos registrados para " << buscado << ".\n";
+    }
+
     // ---------- Menú principal ----------
     void menuPrincipal() {
         int op;
@@ -532,7 +578,8 @@ public:
             cout << "3. Tomar turno por especialidad\n";
             cout << "4. Tomar turno por practica\n";
             cout << "5. Cancelar turno\n";
-            cout << "6. Guardar y salir\n";
+            cout << "6. Ver mis turnos\n";
+            cout << "7. Guardar y salir\n";
             cout << "Seleccione una opcion: ";
             cin >> op; cin.ignore();
 
@@ -542,10 +589,11 @@ public:
             case 3: tomarTurnoPorEspecialidad(); break;
             case 4: tomarTurnoPorPractica(); break;
             case 5: cancelarTurno(); break;
-            case 6: guardarTurnosEnCSV(); cout << "\nSaliendo del sistema...\n"; break;
+            case 6: verTurnosDePaciente(); break;
+            case 7: guardarTurnosEnCSV(); cout << "\nSaliendo del sistema...\n"; break;
             default: cout << "\nOpcion invalida.\n";
             }
-        } while (op != 6);
+        } while (op != 7);
     }
 };
 
