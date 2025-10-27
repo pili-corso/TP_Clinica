@@ -1,0 +1,451 @@
+Medico;Especialidad;Consultorio;Dia;Hora;Practica;Estado;Paciente
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;09:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;10:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;11:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;12:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;13:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;14:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;15:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;16:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;17:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Lunes;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;09:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;10:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;11:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;12:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;13:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;14:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;15:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;16:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;17:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Martes;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Miercoles;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;09:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;10:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;11:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;12:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;13:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;14:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;15:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;16:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;17:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Jueves;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;09:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;10:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;11:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;12:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;13:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;14:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;15:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;16:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;17:00;Consulta;DISPONIBLE;-
+Dr. Suarez Enrique;Oftalmologo;Consultorio 31;Viernes;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;09:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;10:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;11:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;12:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;13:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;14:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;15:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;16:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;17:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Lunes;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;09:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;10:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;11:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;12:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;13:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;14:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;15:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;16:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;17:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Martes;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Miercoles;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;09:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;10:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;11:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;12:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;13:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;14:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;15:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;16:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;17:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Jueves;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;09:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;10:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;11:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;12:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;13:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;14:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;15:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;16:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;17:00;Consulta;DISPONIBLE;-
+Dra. Lopez Andrea;Oftalmologo;Consultorio 32;Viernes;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;09:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;10:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;11:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;12:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;13:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;14:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;15:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;16:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;17:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Lunes;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;09:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;10:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;11:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;12:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;13:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;14:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;15:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;16:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;17:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Martes;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Miercoles;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;09:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;10:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;11:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;12:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;13:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;14:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;15:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;16:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;17:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Jueves;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;09:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;10:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;11:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;12:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;13:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;14:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;15:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;16:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;17:00;Consulta;DISPONIBLE;-
+Dr. Fernandez Nicolas;Oftalmologo;Consultorio 33;Viernes;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;09:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;10:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;11:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;12:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;13:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;14:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;15:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;16:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;17:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Lunes;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;09:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;10:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;11:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;12:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;13:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;14:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;15:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;16:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;17:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Martes;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Miercoles;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;09:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;10:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;11:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;12:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;13:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;14:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;15:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;16:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;17:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Jueves;17:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;09:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;09:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;10:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;10:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;11:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;11:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;12:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;12:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;13:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;13:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;14:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;14:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;15:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;15:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;16:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;16:00;Fondo de ojos;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;17:00;Consulta;DISPONIBLE;-
+Dra. Rivas Karina;Oftalmologo;Consultorio 34;Viernes;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;09:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;10:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;11:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;12:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;13:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;14:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;15:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;16:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;17:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Lunes;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;09:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;10:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;11:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;12:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;13:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;14:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;15:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;16:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;17:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Martes;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Miercoles;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;09:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;10:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;11:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;12:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;13:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;14:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;15:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;16:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;17:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Jueves;17:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;09:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;09:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;10:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;10:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;11:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;11:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;12:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;12:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;13:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;13:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;14:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;14:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;15:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;15:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;16:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;16:00;Fondo de ojos;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;17:00;Consulta;DISPONIBLE;-
+Dr. Meza Damian;Oftalmologo;Consultorio 35;Viernes;17:00;Fondo de ojos;DISPONIBLE;-

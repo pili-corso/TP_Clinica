@@ -1,0 +1,451 @@
+Medico;Especialidad;Consultorio;Dia;Hora;Practica;Estado;Paciente
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;09:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;09:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;10:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;10:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;11:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;11:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;12:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;12:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;13:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;13:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;14:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;14:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;15:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;15:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;16:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;16:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;17:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Lunes;17:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;09:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;09:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;10:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;10:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;11:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;11:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;12:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;12:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;13:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;13:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;14:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;14:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;15:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;15:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;16:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;16:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;17:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Martes;17:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;09:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;10:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;11:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;12:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;13:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;14:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;15:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;16:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Miercoles;17:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;09:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;09:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;10:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;10:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;11:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;11:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;12:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;12:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;13:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;13:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;14:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;14:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;15:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;15:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;16:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;16:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;17:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Jueves;17:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;09:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;09:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;10:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;10:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;11:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;11:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;12:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;12:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;13:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;13:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;14:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;14:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;15:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;15:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;16:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;16:00;Control de yeso;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;17:00;Consulta;DISPONIBLE;-
+Dr. Ruiz Ezequiel;Traumatologo;Consultorio 11;Viernes;17:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;09:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;09:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;10:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;10:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;11:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;11:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;12:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;12:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;13:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;13:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;14:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;14:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;15:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;15:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;16:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;16:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;17:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Lunes;17:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;09:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;09:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;10:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;10:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;11:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;11:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;12:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;12:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;13:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;13:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;14:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;14:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;15:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;15:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;16:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;16:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;17:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Martes;17:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;09:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;10:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;11:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;12:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;13:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;14:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;15:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;16:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Miercoles;17:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;09:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;09:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;10:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;10:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;11:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;11:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;12:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;12:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;13:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;13:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;14:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;14:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;15:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;15:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;16:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;16:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;17:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Jueves;17:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;09:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;09:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;10:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;10:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;11:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;11:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;12:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;12:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;13:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;13:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;14:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;14:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;15:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;15:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;16:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;16:00;Control de yeso;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;17:00;Consulta;DISPONIBLE;-
+Dra. Soto Ludmila;Traumatologo;Consultorio 12;Viernes;17:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;09:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;09:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;10:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;10:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;11:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;11:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;12:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;12:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;13:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;13:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;14:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;14:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;15:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;15:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;16:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;16:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;17:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Lunes;17:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;09:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;09:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;10:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;10:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;11:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;11:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;12:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;12:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;13:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;13:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;14:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;14:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;15:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;15:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;16:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;16:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;17:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Martes;17:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;09:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;10:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;11:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;12:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;13:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;14:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;15:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;16:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Miercoles;17:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;09:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;09:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;10:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;10:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;11:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;11:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;12:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;12:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;13:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;13:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;14:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;14:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;15:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;15:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;16:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;16:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;17:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Jueves;17:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;09:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;09:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;10:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;10:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;11:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;11:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;12:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;12:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;13:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;13:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;14:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;14:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;15:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;15:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;16:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;16:00;Control de yeso;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;17:00;Consulta;DISPONIBLE;-
+Dr. Aguilar Maximiliano;Traumatologo;Consultorio 13;Viernes;17:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;09:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;09:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;10:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;10:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;11:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;11:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;12:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;12:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;13:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;13:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;14:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;14:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;15:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;15:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;16:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;16:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;17:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Lunes;17:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;09:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;09:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;10:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;10:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;11:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;11:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;12:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;12:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;13:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;13:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;14:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;14:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;15:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;15:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;16:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;16:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;17:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Martes;17:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;09:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;10:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;11:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;12:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;13:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;14:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;15:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;16:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Miercoles;17:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;09:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;09:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;10:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;10:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;11:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;11:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;12:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;12:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;13:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;13:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;14:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;14:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;15:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;15:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;16:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;16:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;17:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Jueves;17:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;09:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;09:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;10:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;10:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;11:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;11:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;12:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;12:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;13:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;13:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;14:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;14:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;15:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;15:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;16:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;16:00;Control de yeso;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;17:00;Consulta;DISPONIBLE;-
+Dra. Cabrera Macarena;Traumatologo;Consultorio 14;Viernes;17:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;09:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;09:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;10:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;10:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;11:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;11:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;12:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;12:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;13:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;13:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;14:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;14:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;15:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;15:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;16:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;16:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;17:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Lunes;17:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;09:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;09:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;10:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;10:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;11:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;11:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;12:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;12:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;13:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;13:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;14:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;14:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;15:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;15:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;16:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;16:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;17:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Martes;17:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;09:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;10:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;11:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;12:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;13:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;14:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;15:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;16:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Miercoles;17:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;09:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;09:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;10:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;10:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;11:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;11:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;12:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;12:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;13:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;13:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;14:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;14:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;15:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;15:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;16:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;16:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;17:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Jueves;17:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;09:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;09:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;10:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;10:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;11:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;11:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;12:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;12:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;13:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;13:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;14:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;14:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;15:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;15:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;16:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;16:00;Control de yeso;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;17:00;Consulta;DISPONIBLE;-
+Dr. Sequeiros Pablo;Traumatologo;Consultorio 15;Viernes;17:00;Control de yeso;DISPONIBLE;-

@@ -1,0 +1,676 @@
+Medico;Especialidad;Consultorio;Dia;Hora;Practica;Estado;Paciente
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;09:00;Consulta;OCUPADO;Veronica Gusberti (DNI: 23456654, OS: SWISS)  (DNI: , OS: )
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;09:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;10:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;10:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;11:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;11:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;12:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;12:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;13:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;13:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;14:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;14:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;15:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;15:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;16:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;16:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;17:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Lunes;17:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;09:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;09:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;10:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;10:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;11:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;11:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;12:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;12:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;13:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;13:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;14:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;14:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;15:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;15:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;16:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;16:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;17:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Martes;17:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;09:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;10:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;11:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;12:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;13:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;14:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;15:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;16:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Miercoles;17:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;09:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;09:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;10:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;10:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;11:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;11:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;12:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;12:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;13:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;13:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;14:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;14:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;15:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;15:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;16:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;16:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;17:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Jueves;17:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;09:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;09:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;10:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;10:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;11:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;11:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;12:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;12:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;13:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;13:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;14:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;14:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;15:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;15:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;16:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;16:00;Control prenatal;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;17:00;Consulta;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Mendez Agustina;Obstetra;Consultorio 16;Viernes;17:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;09:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;09:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;10:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;10:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;11:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;11:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;12:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;12:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;13:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;13:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;14:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;14:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;15:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;15:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;16:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;16:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;17:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Lunes;17:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;09:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;09:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;10:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;10:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;11:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;11:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;12:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;12:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;13:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;13:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;14:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;14:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;15:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;15:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;16:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;16:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;17:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Martes;17:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;09:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;10:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;11:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;12:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;13:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;14:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;15:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;16:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Miercoles;17:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;09:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;09:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;10:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;10:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;11:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;11:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;12:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;12:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;13:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;13:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;14:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;14:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;15:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;15:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;16:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;16:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;17:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Jueves;17:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;09:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;09:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;10:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;10:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;11:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;11:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;12:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;12:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;13:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;13:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;14:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;14:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;15:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;15:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;16:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;16:00;Control prenatal;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;17:00;Consulta;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Flores Ramiro;Obstetra;Consultorio 17;Viernes;17:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;09:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;09:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;10:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;10:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;11:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;11:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;12:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;12:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;13:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;13:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;14:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;14:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;15:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;15:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;16:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;16:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;17:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Lunes;17:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;09:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;09:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;10:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;10:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;11:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;11:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;12:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;12:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;13:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;13:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;14:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;14:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;15:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;15:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;16:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;16:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;17:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Martes;17:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;09:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;10:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;11:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;12:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;13:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;14:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;15:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;16:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Miercoles;17:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;09:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;09:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;10:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;10:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;11:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;11:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;12:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;12:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;13:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;13:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;14:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;14:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;15:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;15:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;16:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;16:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;17:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Jueves;17:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;09:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;09:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;10:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;10:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;11:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;11:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;12:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;12:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;13:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;13:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;14:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;14:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;15:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;15:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;16:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;16:00;Control prenatal;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;17:00;Consulta;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Alvarez Carolina;Obstetra;Consultorio 18;Viernes;17:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;09:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;09:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;10:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;10:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;11:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;11:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;12:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;12:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;13:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;13:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;14:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;14:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;15:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;15:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;16:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;16:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;17:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Lunes;17:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;09:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;09:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;10:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;10:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;11:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;11:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;12:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;12:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;13:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;13:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;14:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;14:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;15:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;15:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;16:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;16:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;17:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Martes;17:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;09:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;10:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;11:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;12:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;13:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;14:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;15:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;16:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Miercoles;17:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;09:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;09:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;10:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;10:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;11:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;11:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;12:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;12:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;13:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;13:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;14:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;14:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;15:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;15:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;16:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;16:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;17:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Jueves;17:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;09:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;09:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;10:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;10:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;11:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;11:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;12:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;12:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;13:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;13:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;14:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;14:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;15:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;15:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;16:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;16:00;Control prenatal;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;17:00;Consulta;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dr. Peralta Diego;Obstetra;Consultorio 19;Viernes;17:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;09:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;09:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;10:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;10:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;11:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;11:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;12:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;12:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;13:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;13:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;14:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;14:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;15:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;15:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;16:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;16:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;17:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Lunes;17:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;09:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;09:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;10:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;10:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;11:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;11:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;12:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;12:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;13:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;13:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;14:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;14:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;15:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;15:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;16:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;16:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;17:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Martes;17:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;09:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;09:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;10:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;10:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;11:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;11:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;12:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;12:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;13:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;13:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;14:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;14:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;15:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;15:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;16:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;16:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;17:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Miercoles;17:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;09:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;09:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;10:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;10:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;11:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;11:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;12:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;12:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;13:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;13:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;14:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;14:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;15:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;15:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;16:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;16:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;17:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Jueves;17:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;09:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;09:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;09:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;10:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;10:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;10:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;11:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;11:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;11:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;12:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;12:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;12:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;13:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;13:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;13:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;14:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;14:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;14:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;15:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;15:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;15:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;16:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;16:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;16:00;Control prenatal;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;17:00;Consulta;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;17:00;Ecografia obstetrica;DISPONIBLE;-
+Dra. Varela Silvina;Obstetra;Consultorio 20;Viernes;17:00;Control prenatal;DISPONIBLE;-
